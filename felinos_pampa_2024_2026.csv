@@ -1,0 +1,196 @@
+﻿Data_registro;Hora;Ano;Mês;Dia;Familia;Especie;Nome_comum;Origem;Cor;Localidade;Município;Tipo_registro;Precisão da Coordenada;Observação;Identificador;Latitude_Y;Longitude_X;lat;lon;Rodovia;Rodovia_ou_Local
+27/06/2024;;2024;6;27;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;;RSC473;;Vestígio;Exata;;Tatiane Trigo;-31,4711;-53,6536;-31.4711;-53.6536;RSC-473;RSC-473
+05/08/2024;;2024;8;5;Felidae;Herpailurus yagouaroundi;Gato-mourisco;Silvestre;;BR290, Rio Pardo;;Vestígio;Exata;;Tatiane Trigo;-30,2200;-52,6030;-30.22;-52.603;BR-290;BR-290
+19/07/2024;;2024;7;19;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;;;;Vestígio;Exata;;Tatiane Trigo;-31,6370;-53,2023;-31.637;-53.2023;;Localização não identificada
+23/08/2024;;2024;8;23;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;;Cachoeira do Sul;;Vestígio;Exata;;Tatiane Trigo;-30,2600;-53,0700;-30.26;-53.07;;Área: Cachoeira do Sul
+01/04/2024;;2024;4;1;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;Estrada da Ponta Grossa;;Vestígio;Exata;;Júlio Cézar Bicca, 2024;-30,1757;-51,2147;-30.1757;-51.2147;;Área: Estrada da Ponta Grossa
+02/04/2024;;2024;4;2;Felidae;Leopardus pardalis;Jaguatirica;Silvestre;Pintado;BR-101;;Vestígio;Aproximada Google Maps;;Emanuelle Pasa, 2024;-29,6541;-50,1234;-29.6541;-50.1234;BR-101;BR-101
+03/04/2024;;2024;4;3;Felidae;Herpailurus yagouaroundi;Gato-mourisco;Silvestre;Marrom;;;Vestígio;Exata;;Col: Suelen Segui;-31,5472;-53,6952;-31.5472;-53.6952;;Localização não identificada
+13/04/2024;10:08;2024;4;13;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;RS-129;;Vestígio;Exata;;Col: João Fábio Soares;-28,4533;-51,8447;-28.4533;-51.8447;RS-129;RS-129
+22/04/2024;9:55;2024;4;22;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;BR-116, km461;;Vestígio;Exata;;Leonardo Vilagran, 2024;-31,2930;-52,0100;-31.293;-52.01;BR-116;BR-116
+25/04/2024;;2024;4;25;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;RS-453;;Vestígio;Exata;;Flávia Tirelli, 2024;-29,4759;-51,8828;-29.4759;-51.8828;RS-453;RS-453
+15/04/2024;;2024;4;15;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;BR_158;;Vestígio;Exata;;Izidoro Amaral, 2024;-30,7830;-55,1752;-30.783;-55.1752;BR-158;BR-158
+29/04/2024;;2024;4;29;Felidae;Herpailurus yagouaroundi;Gato-mourisco;Silvestre;Marrom;;;Vestígio;Exata;;Alan Hentz, 2024;-26,5142;-52,5732;-26.5142;-52.5732;;Localização não identificada
+17/05/2024;;2024;5;17;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;BR-293;Bagé;Vestígio;Exata;;Suelen Segui;-31,3079;-54,0280;-31.3079;-54.028;BR-293;BR-293
+25/05/2024;;2024;5;25;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Melânico;BR-293;;Vestígio;Exata;;Suelen Segui;-31,3928;-53,8305;-31.3928;-53.8305;BR-293;BR-293
+29/05/2024;;2024;5;29;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;BR-472;;Vestígio;Exata;;Gabriel Brutti, 2024;-27,7744;-54,3617;-27.7744;-54.3617;BR-472;BR-472
+07/06/2024;;2024;6;7;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;;;Vestígio;Exata;;Rafael Nielsen, 2024;-29,6514;-50,1187;-29.6514;-50.1187;;Localização não identificada
+21/06/2024;;2024;6;21;Felidae;Leopardus munoai;Gato-palheiro-pampeano;Silvestre;Pintado;RS-640;Cacequi;Vestígio;Exata;;Joice Freiberg, 2024;-29,9660;-54,8598;-29.966;-54.8598;RS-640;RS-640
+01/07/2024;;2024;7;1;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;BR-287;Santa Maria;Vestígio;Exata;;Letícia Costa, 2024;-29,6721;-54,0058;-29.6721;-54.0058;BR-287;BR-287
+15/02/2024;;2024;2;15;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Melânico;BR-290;São Gabriel;Vestígio;Exata;;Joice Freiberg, 2024;-30,3166;-54,4046;-30.3166;-54.4046;BR-290;BR-290
+01/07/2024;;2024;7;1;Felidae;Herpailurus yagouaroundi;Gato-mourisco;Silvestre;Marrom;"BR-287; km 341";;Vestígio;Exata;;Douglas Rodrigues, 2024;-29,5855;-54,6842;-29.5855;-54.6842;BR-287;BR-287
+09/07/2024;;2024;7;9;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;BR-158;Santana do Livramento;Vestígio;Exata;;Raphael Kurz, 2024;-30,8107;-55,2908;-30.8107;-55.2908;BR-158;BR-158
+30/06/2024;;2024;6;30;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;RS-444;Bento Gonçalves;Vestígio;Exata;;Ketlin Anderle, 2024;-29,1708;-51,4806;-29.1708;-51.4806;RS-444;RS-444
+27/06/2024;;2024;6;27;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;RSC473;Candiota;Vestígio;Exata;;Cristian Xavier dos Santos, 2024;-31,4710;-53,6536;-31.471;-53.6536;RSC-473;RSC-473
+06/07/2024;;2024;7;6;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;;Lindolfo Collor;Vestígio;Exata;;Jovena Lamb, 2024;-29,5904;-51,2153;-29.5904;-51.2153;;Área: Lindolfo Collor
+06/07/2024;;2024;7;6;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;;Santiago;Vestígio;Exata;;Horácio Nascimento Saccol, 2024;-29,3092;-54,7625;-29.3092;-54.7625;;Área: Santiago
+10/07/2024;;2024;7;10;Felidae;Leopardus munoai;Gato-palheiro-pampeano;Silvestre;Pintado;Rodovia Osvaldo Aranha;Rosário do Sul;Vestígio;Exata;;Joice Freiberg, 2024;-30,1525;-55,2036;-30.1525;-55.2036;BR-285;BR-285
+03/07/2024;;2024;7;3;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;;São José do Herval;Vestígio;Exata;;Alan Costa, 2024;-29,0963;-52,3349;-29.0963;-52.3349;;Área: São José do Herval
+30/07/2024;;2024;7;30;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;;São Vicente do Sul;Vestígio;Exata;;Wilson Kuchla, 2024;-29,7156;-54,7616;-29.7156;-54.7616;;Área: São Vicente do Sul
+26/07/2024;;2024;7;26;Felidae;Herpailurus yagouaroundi;Gato-mourisco;Silvestre;Marrom;;Cerrito;Vestígio;Exata;;Suelen Segui;-31,7268;-52,8593;-31.7268;-52.8593;;Área: Cerrito
+26/07/2024;;2024;7;26;Felidae;Herpailurus yagouaroundi;Gato-mourisco;Silvestre;Marrom;;Bagé;Vestígio;Exata;;Suelen Segui, 2024;-31,3047;-54,0364;-31.3047;-54.0364;;Área: Bagé
+15/08/2024;;2024;8;15;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;;Rio Pardo;Vestígio;Exata;;Pedro Augusto Thomas, 2024;-30,1741;-52,2556;-30.1741;-52.2556;;Área: Rio Pardo
+16/08/2024;;2024;8;16;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;;Caçapava do Sul;Vestígio;Aproximada Google Maps;;Vinícius de Morais;-30,3721;-53,5762;-30.3721;-53.5762;;Área: Caçapava do Sul
+17/08/2024;;2024;8;17;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;;Palmeira das Missões;Fotografia;Exata;;Felipe Ott dos Reis,2024;-27,8304;-53,1919;-27.8304;-53.1919;;Área: Palmeira das Missões
+25/08/2024;;2024;8;25;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Melânico;;Candiota;Vestígio;Exata;;Fábio Grala, 2024;-31,5190;-53,7026;-31.519;-53.7026;;Área: Candiota
+25/03/2024;;2024;3;25;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Melânico;;Hulha Negra;Vestígio;Exata;;Suelen Segui;-31,3148;-54,0099;-31.3148;-54.0099;;Área: Hulha Negra
+26/08/2024;;2024;8;26;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;;Caçapava do Sul;Vestígio;Exata;;Andressa Teixeira, 2024;-30,3585;-53,4547;-30.3585;-53.4547;;Área: Caçapava do Sul
+22/08/2024;;2024;8;22;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;;Sananduva;Vestígio;Exata;;Fabiano Rocha, 2024;-27,8620;-51,8238;-27.862;-51.8238;;Área: Sananduva
+18/07/2024;;2024;7;18;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;;Esteio;Vestígio;Exata;;Diego Wegener, 2024;-29,8818;-51,2360;-29.8818;-51.236;;Área: Esteio
+17/06/2024;;2024;6;17;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;;Manoel Viana;Vestígio;Exata;;Maurício Cogo, 2024;-29,5758;-55,4560;-29.5758;-55.456;;Área: Manoel Viana
+21/07/2024;17:17;2024;7;21;Felidae;Leopardus munoai;Gato-palheiro-pampeano;Silvestre;Pintado;;Pântano Grande;Vestígio;Exata;;João Fábio, 2024;-30,2099;-52,5193;-30.2099;-52.5193;;Área: Pântano Grande
+29/08/2024;;2024;8;29;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;;Morro Redondo;Vestígio;Exata;;Rafael Camargo de Mattos, 2024;-31,5391;-52,5739;-31.5391;-52.5739;;Área: Morro Redondo
+;;2024;1;;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;BR290;Butiá;Vestígio;Aproximada Google Maps;;Claudiomiro de Freitas, 2024;-30,1359;-52,0008;-30.1359;-52.0008;BR-290;BR-290
+;;2024;8;;Felidae;Leopardus sp.;Gato-do-mato;Silvestre;Pintado;;Santa Maria;Vestígio;Exata;;Arlei Antunes, 2024;-29,8756;-53,7381;-29.8756;-53.7381;;Área: Santa Maria
+01/09/2024;;2024;9;1;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;;Igrejinha;Vestígio;Exata;;Vinícius de Morais, 2024;-29,5399;-50,7705;-29.5399;-50.7705;;Área: Igrejinha
+29/08/2024;;2024;8;29;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;;Viamão;Vestígio;Exata;;Fabio Vilela, 2024;-30,1559;-51,0395;-30.1559;-51.0395;;Área: Viamão
+03/09/2024;;2024;9;3;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;;Bento Gonçalves;Vestígio;Exata;;Vinícius de Morais, 2024;-29,0717;-51,6073;-29.0717;-51.6073;;Área: Bento Gonçalves
+28/04/2024;;2024;4;28;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;;Santa Maria;Vestígio;Exata;;Mirian Schalemberg, 2024;-29,6744;-53,9722;-29.6744;-53.9722;;Área: Santa Maria
+13/09/2024;;2024;9;13;Felidae;Herpailurus yagouaroundi;Gato-mourisco;Silvestre;Acinzentado;BR377;Santiago;Vestígio;Exata;;Matias Jardim, 2024;-29,0938;-54,7765;-29.0938;-54.7765;BR-377;BR-377
+15/09/2024;;2024;9;15;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;BR153;Paulo Bento;Vestígio;Aproximada Google Maps;;William Subirai, 2024;-27,7021;-52,3104;-27.7021;-52.3104;BR-153;BR-153
+24/08/2024;;2024;8;24;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;;Veranópolis;Vestígio;Exata;;Giancarlo Nappi, 2024;-28,9119;-51,5428;-28.9119;-51.5428;;Área: Veranópolis
+17/09/2024;;2024;9;17;Felidae;Puma concolor;Onça-parda;Silvestre;;;Uruguaiana;Fotografia;Exata;;Felipe Peters, 2024;-29,7386;-57,0783;-29.7386;-57.0783;;Área: Uruguaiana
+18/09/2024;;2024;9;18;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;;Porto Alegre;Vestígio;Exata;;Roberta Baracy, 2024;-30,2145;-51,0651;-30.2145;-51.0651;;Área: Porto Alegre
+19/09/2024;12:21;2024;9;19;Felidae;Herpailurus yagouaroundi;Gato-mourisco;Silvestre;Marrom;BR392;Santana da Boa Vista;Vestígio;Exata;;Ana Paula Albano, 2024;-30,8538;-53,1585;-30.8538;-53.1585;BR-392;BR-392
+23/09/2024;;2024;9;23;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Melânico;;Bagé;Vestígio;Exata;;Marcelo Centena, 2024;-31,3723;-54,0711;-31.3723;-54.0711;;Área: Bagé
+28/03/2024;;2024;3;28;Felidae;Herpailurus yagouaroundi;Gato-mourisco;Silvestre;Marrom;;Morro Redondo;Vestígio;Exata;;Antonio Schinca, 2024;-31,5384;-52,5724;-31.5384;-52.5724;;Área: Morro Redondo
+23/09/2024;;2024;9;23;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;;Sananduva;Vestígio;Exata;;Daniel Kemmerich, 2024;-27,9744;-51,7849;-27.9744;-51.7849;;Área: Sananduva
+03/10/2024;;2024;10;3;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;;Candiota;Vestígio;Exata;;Renan Coelho, 2024;-31,4176;-53,7295;-31.4176;-53.7295;;Área: Candiota
+18/10/2024;;2024;10;18;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;;Capão Bonito do Sul;Vestígio;Exata;;Fabiano Trevisan, 2024;-28,2953;-51,4464;-28.2953;-51.4464;;Área: Capão Bonito do Sul
+21/10/2024;;2024;10;21;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;;Soledade;Vestígio;Exata;;Yuri Bonfada, 2024;-28,5312;-52,2519;-28.5312;-52.2519;;Área: Soledade
+22/10/2024;;2024;10;22;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;;Chapecó;Vestígio;Exata;;Daniel Galiano, 2024;-27,0048;-53,0673;-27.0048;-53.0673;;Área: Chapecó
+22/10/2024;;2024;10;22;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;;Chapecó;Vestígio;Aproximada Google Maps;;Daniel Galiano, 2024;-27,1131;-52,6117;-27.1131;-52.6117;;Área: Chapecó
+25/10/2024;;2024;10;25;Felidae;Puma concolor;Onça-parda;Silvestre;;;Cruz Alta;Vestígio;Exata;;Matheus Jantsch, 2024;-28,5701;-53,7136;-28.5701;-53.7136;;Área: Cruz Alta
+01/11/2024;;2024;11;1;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;;Itaqui;Vestígio;Exata;;Raphael Kurz, 2024;-29,0936;-56,2675;-29.0936;-56.2675;;Área: Itaqui
+02/11/2024;;2024;11;2;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;;Caçapava do Sul;Vestígio;Exata;;Eduardo Coelho, 2024;-30,6726;-53,4212;-30.6726;-53.4212;;Área: Caçapava do Sul
+23/10/2024;;2024;10;23;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;;Porto Alegre;Vestígio;Exata;;Rafael Borges, 2024;-30,2093;-51,0622;-30.2093;-51.0622;;Área: Porto Alegre
+09/11/2024;;2024;11;9;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;;Hulha Negra;Vestígio;Exata;;Suelen Segui, 2024;-31,3943;-53,8177;-31.3943;-53.8177;;Área: Hulha Negra
+10/11/2024;;2024;11;10;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;;Bagé;Vestígio;Exata;;Ana Paula Albano, 2024;-31,2739;-54,1106;-31.2739;-54.1106;;Área: Bagé
+13/11/2024;;2024;11;13;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;;Nova Prata;Vestígio;Exata;;Mateus Giotto, 2024;-28,7482;-51,6317;-28.7482;-51.6317;;Área: Nova Prata
+26/11/2024;;2024;11;26;Felidae;Leopardus pardalis;Jaguatirica;Silvestre;Pintado;RS431;São Valentim do Sul;Vestígio;Exata;;Crisian Joenck, 2024;-29,0758;-51,7554;-29.0758;-51.7554;RS-431;RS-431
+09/07/2024;;2024;7;9;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;BR392;São Sepé;Vestígio;Exata;;Giancarlo Mûller Pozzebon, 2024;-30,0169;-53,6836;-30.0169;-53.6836;BR-392;BR-392
+18/09/2024;;2024;9;18;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;BR392;Santa Maria;Vestígio;Exata;;Giancarlo Mûller Pozzebon, 2024;-29,8460;-53,7539;-29.846;-53.7539;BR-392;BR-392
+14/08/2024;;2024;8;14;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Melânico;BR392;Formigueiro;Vestígio;Exata;;Giancarlo Mûller Pozzebon, 2024;-30,0617;-53,6588;-30.0617;-53.6588;BR-392;BR-392
+22/11/2024;;2024;11;22;Felidae;Herpailurus yagouaroundi;Gato-mourisco;Silvestre;Marrom;BR290;São Gabriel;Vestígio;Exata;;Luciano Padilha Bratta, 2024;-30,3178;-54,4019;-30.3178;-54.4019;BR-290;BR-290
+11/12/2024;;2024;12;111;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;;Dom Pedrito;Vestígio;Exata;;Erny Meinhart,2024;-31,0029;-54,7045;-31.0029;-54.7045;;Área: Dom Pedrito
+15/05/2024;;2024;5;15;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;;RS241;São Francisco de Assis;Vestígio;Exata;;Jonas Sponchiado, 2024;-29,6754;-54,9507;-29.6754;-54.9507;RS-241;RS-241
+03/10/2024;;2024;10;3;Felidae;Leopardus munoai;Gato-palheiro-pampeano;Silvestre;;RSC377;Alegrete;Vestígio;Exata;;Jonas Sponchiado, 2024;-29,7631;-55,6281;-29.7631;-55.6281;RSC-377;RSC-377
+01/12/2024;;2024;12;1;Felidae;Herpailurus yagouaroundi;Gato-mourisco;Silvestre;;RSC377;Alegrete;Vestígio;Exata;;Jonas Sponchiado, 2024;-29,7137;-55,5195;-29.7137;-55.5195;RSC-377;RSC-377
+28/12/2024;;2024;12;28;Felidae;Herpailurus yagouaroundi;Gato-mourisco;Silvestre;Marrom;BR290;São Sepé;Vestígio;Exata;;Giancarlo Mûller Pozzebon, 2024;-30,3636;-53,6158;-30.3636;-53.6158;BR-290;BR-290
+27/12/2024;;2024;12;27;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;;;Silveira Martins;Vestígio;Exata;;Charles Ferreira, 2024;-29,6446;-53,5773;-29.6446;-53.5773;;Área: Silveira Martins
+28/12/2024;;2024;12;28;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;BR392 - km 707;Porto Xavier;Vestígio;Aproximada Google Maps;;Bruno Acosta, 2024;-28,0063;-55,1183;-28.0063;-55.1183;BR-392;BR-392
+04/01/2025;;2025;1;4;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;;Júlio de Castilhos;Vestígio;Exata;;Iran Júnior, 2025;-29,2446;-53,6653;-29.2446;-53.6653;;Área: Júlio de Castilhos
+11/12/2024;;2024;12;11;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;BR153;Bagé;Vestígio;Exata;;Suelen Segui, 2024;-31,1713;-53,8258;-31.1713;-53.8258;BR-153;BR-153
+26/12/2024;;2024;12;26;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Melânico;;Candiota;Vestígio;Exata;;Suelen Segui, 2024;-31,5205;-53,7036;-31.5205;-53.7036;;Área: Candiota
+04/01/2025;;2025;1;4;Felidae;Herpailurus yagouaroundi;Gato-mourisco;Silvestre;;BR293;Cerrito;Vestígio;Exata;;Suelen Segui, 2025;-31,7411;-52,7836;-31.7411;-52.7836;BR-293;BR-293
+09/01/2025;;2025;1;9;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;BR158;Sant'Ana do Livramento;Vestígio;Exata;;André Silveira, 2025;-30,8480;-55,4753;-30.848;-55.4753;BR-158;BR-158
+27/01/2025;;2025;1;27;Felidae;Puma concolor;Onça-parda;Silvestre;;RS126;Ibiaçá;Vestígio;Aproximada Google Maps;;PATRAM RS, 2025;-28,0640;-51,7645;-28.064;-51.7645;RS-126;RS-126
+04/02/2025;;2025;2;4;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;SC390;Bom Jardim da Serra;Vestígio;Exata;;Alexandre Bianco, 2025;-28,3359;-49,6644;-28.3359;-49.6644;SC-390;SC-390
+12/02/2025;;2025;2;12;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;;Bento Gonçalves;Vestígio;Exata;;Danielly, 2025;-28,9252;-54,0219;-28.9252;-54.0219;;Área: Bento Gonçalves
+21/02/25;;2025;2;21;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;RS471;Encruzilhada do Sul;Vestígio;Exata;;Vanderlei Sinhor, 2025;-30,6924;-52,6341;-30.6924;-52.6341;RS-471;RS-471
+15/02/2024;;2024;2;15;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;RSC-453;;Vestígio;Exata;;Emanuelle Pasa;-29,0894;-51,0279;-29.0894;-51.0279;RSC-453;RSC-453
+29/03/2024;;2024;3;29;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;RSC-453;;Vestígio;Exata;;Emanuelle Pasa;-29,1967;-50,4920;-29.1967;-50.492;RSC-453;RSC-453
+29/03/2024;;2024;3;29;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;RSC-453;;Vestígio;Exata;;Emanuelle Pasa;-29,1965;-50,4924;-29.1965;-50.4924;RSC-453;RSC-453
+15/06/2024;;2024;6;15;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;Estrada para Fazenda Souza;Caxias do Sul;Vestígio;Exata;;Emanuelle Pasa;-29,1119;-51,0502;-29.1119;-51.0502;;Área: Estrada para Fazenda Souza
+12/06/2024;;2024;6;12;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Melânico;;;Vestígio;Exata;;Peters, F.;-30,8379;-55,0513;-30.8379;-55.0513;;Localização não identificada
+17/03/2024;;2024;3;17;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;RS-392;São Sepé;Vestígio;Exata;;;-30,0291;-53,6816;-30.0291;-53.6816;RS-392;RS-392
+31/03/2025;;2025;3;31;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;BR-293;Candiota;Vestígio;Exata;;Suelen Segui, 2024;-31,4058;-53,7533;-31.4058;-53.7533;BR-293;BR-293
+15/02/2024;;2024;2;15;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Melânico;BR-290;São Gabriel;Vestígio;Exata;;Joice Aline Freiberg, 2025;-30,3167;-54,4046;-30.3167;-54.4046;BR-290;BR-290
+21/06/2024;;2024;6;21;Felidae;Leopardus munoai;Gato-palheiro-pampeano;Silvestre;Pintado;RS-640;Cacequi;Vestígio;Exata;;Joice Aline Freiberg, 2025;-29,9659;-54,8598;-29.9659;-54.8598;RS-640;RS-640
+10/07/2024;;2024;7;10;Felidae;Leopardus munoai;Gato-palheiro-pampeano;Silvestre;Pintado;BR-290;Rosário do Sul;Vestígio;Exata;;Joice Aline Freiberg, 2025;-30,1524;-55,2043;-30.1524;-55.2043;BR-290;BR-290
+16/07/2024;;2024;7;16;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;BR-287;São Vicente do Sul;Vestígio;Exata;;Joice Aline Freiberg, 2025;-29,6160;-54,6838;-29.616;-54.6838;BR-287;BR-287
+17/07/2024;;2024;7;17;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;BR-290;Rosário do Sul;Vestígio;Exata;;Joice Aline Freiberg, 2025;-30,2042;-55,0707;-30.2042;-55.0707;BR-290;BR-290
+13/04/2025;;2025;4;13;Felidae;Leopardus munoai;Gato-palheiro-pampeano;Silvestre;Pintado;BR-158;São Gabriel;Vestígio;Exata;Amostra de tecido coletada;Joice Aline Freiberg, 2025;-29,9739;-54,4651;-29.9739;-54.4651;BR-158;BR-158
+19/04/2025;;2025;4;19;Felidae;Leopardus munoai;Gato-palheiro-pampeano;Silvestre;Pintado;RS-640;São Vicente do Sul;Vestígio;Exata;Coleta de amostra dentária;Joice Aline Freiberg, 2025;-29,7372;-54,7607;-29.7372;-54.7607;RS-640;RS-640
+24/04/2025;;2025;4;24;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;RS-392;Vila Block;Vestígio;Exata;;Gian Carlo Muller Pozzebon,;-30,0393;-53,6790;-30.0393;-53.679;RS-392;RS-392
+17/04/2025;;2025;4;17;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;RS-392;Vila Block;Vestígio;Exata;;Gian Carlo Muller Pozzebon,;-30,0045;-53,6844;-30.0045;-53.6844;RS-392;RS-392
+24/04/2025;8:00;2025;4;24;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;RS-431;São Valentim do Sul;Vestígio;Exata;;Mauricio Pereira, 2025;-29,0674;-51,7741;-29.0674;-51.7741;RS-431;RS-431
+24/04/2025;;2025;4;24;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;Rua Salvador de Ávila;Caraá;Vestígio;Exata;;Claudia Mata, 2025;-29,7615;-50,3865;-29.7615;-50.3865;;Área: Rua Salvador de Ávila
+29/04/2025;;2025;4;29;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;RSC-473;Hulha Negra;Vestígio;Exata;;Suelen Segui, 2025;-31,3936;-53,8247;-31.3936;-53.8247;RSC-473;RSC-473
+05/05/2025;12:35;2025;5;5;Felidae;Felis catus;Gato comum;Domestico;Melânico;RSC-473;Taim;Vestígio;Exata;;Felipe Peters, 2025;-32,2298;-52,4751;-32.2298;-52.4751;RSC-473;RSC-473
+10/05/2025;;2025;5;10;Felidae;Leopardus pardalis;Jaguatirica;Silvestre;Pintado;BR-285;São Borja;Vestígio;Aproximada Google Maps;;Felipe Peters, 2025;-28,6209;-55,7429;-28.6209;-55.7429;BR-285;BR-285
+12/05/2025;;2025;5;12;Felidae;Leopardus pardalis;Jaguatirica;Silvestre;Pintado;Rua Vale das Palmeiras;Ivoti;Vestígio;Aproximada Google Maps;;Felipe Peters, 2025;-29,5988;-51,1416;-29.5988;-51.1416;;Área: Rua Vale das Palmeiras
+22/05/2025;;2025;5;22;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;RS-392;São Sepé;Vestígio;Exata;;Gian Carlo Muller Pozzebon,;-30,0223;-53,6828;-30.0223;-53.6828;RS-392;RS-392
+24/05/2025;;2025;5;24;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;RSC-471;Taim;Vestígio;Exata;;Flávia Tirelli, 2025;-32,6278;-52,5792;-32.6278;-52.5792;RSC-471;RSC-471
+01/06/2025;;2025;6;1;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;Estrada Miguel Arlindo Câmara;Candiota;Vestígio;Exata;;Suelen Segui, 2025;-31,4033;-53,7595;-31.4033;-53.7595;;Área: Estrada Miguel Arlindo Câmara
+02/06/2025;;2025;6;2;Felidae;Herpailurus yagouaroundi;Gato-mourisco;Silvestre;;Estrada Miguel Arlindo Câmara;Candiota;Vestígio;Exata;;Suelen Segui, 2025;-31,5087;-53,6970;-31.5087;-53.697;;Área: Estrada Miguel Arlindo Câmara
+09/06/2025;;2025;6;9;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;BR-293;Hulha Negra;Vestígio;Exata;;Gabriel Fiori, 2025;-31,3146;-54,0103;-31.3146;-54.0103;BR-293;BR-293
+21/05/2025;;2025;5;21;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;Pinheiro Machado;Pinheiro Machado;Fotografia;Exata;;João Marcelo Lima, 2025;-31,5715;-53,3040;-31.5715;-53.304;;Área: Pinheiro Machado
+05/07/2025;;2025;7;5;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;Dario Lassance;Candiota;Vestígio;Exata;;Suelen Segui, 2025;-31,535297;-53,711166;-31.535297;-53.711166;;Área: Dario Lassance
+05/07/2025;;2025;7;5;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;BR-293;Cerrito;Vestígio;Exata;;Pedro Hoffman, 2025;-31,7261;-52,8685;-31.7261;-52.8685;BR-293;BR-293
+01/07/2025;;2025;7;1;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;RSC-473;Hulha Negra;Vestígio;Exata;;Suelen Segui, 2025;-31,3925;-53,8298;-31.3925;-53.8298;RSC-473;RSC-473
+13/07/2025;;2025;7;13;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Melânico;RSC-472;Uruguaiana;Vestígio;Exata;;Raphael Kurz, 2025;-29,9203;-57,1596;-29.9203;-57.1596;RSC-472;RSC-472
+13/07/2025;;2025;7;13;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;BR-285;Panambi;Vestígio;Exata;;Felipe Peters, 2025;-28,4294;-53,1395;-28.4294;-53.1395;BR-285;BR-285
+07/07/2025;;2025;7;7;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;APA do Ibirapuitã;Alegrete;Vestígio;Exata;;Luis Betim, 2025;-29,9754;-55,7643;-29.9754;-55.7643;;Área: APA do Ibirapuitã
+15/07/2025;;2025;7;15;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Melânico;APA do Ibirapuitã;Alegrete;Vestígio;Exata;;Flávia Tirelli, 2025;-29,9063;-56,0320;-29.9063;-56.032;;Área: APA do Ibirapuitã
+26/07/2025;;2025;7;26;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;Tainha;Tainhas;Vestígio;Exata;;Alan, 2025;-29,2849;-50,197694;-29.2849;-50.197694;;Área: Tainha
+30/07/2025;;2025;7;30;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;Santa Rosa;Santa Rosa;Vestígio;Exata;;Alan, 2025;-27,9097;-54,5307;-27.9097;-54.5307;;Área: Santa Rosa
+03/08/2025;;2025;8;3;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;ERS - 168;São Luiz Gonzafa;Vestígio;Aproximada Google Maps;;Daniela Oliveira, 2025;-28,4027;-54,9874;-28.4027;-54.9874;ERS-168;ERS-168
+05/08/2025;;2025;8;5;Felidae;Puma concolor;Puma;Silvestre;;ERS - 392; Santo Ângelo;Vestígio;Aproximada Google Maps;;Rogério, 2025;-28,2880;-54,2854;-28.288;-54.2854;ERS-392;ERS-392
+7/72025;;2025;7;7;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;ERS - 040;Águas Claras;Vestígio;Exata;;Rogério, 2025;-30,1265;-50,8491;-30.1265;-50.8491;ERS-040;ERS-040
+06/08/2025;;2025;8;6;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;Santa Maria; Santa Maria;Vestígio;Exata;;Felipe Peters, 2025;-29,7196;-53,7431;-29.7196;-53.7431;;Área: Santa Maria
+08/08/2025;;2025;8;8;Felidae;Herpailurus yagouaroundi;Jaguarundi;Silvestre;;Seival;Candiota;Vestígio;Exata;;Suelen Segui, 2025;-31,4548;-53,7405;-31.4548;-53.7405;;Área: Seival
+09/08/2025;;2025;8;9;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;Ciriaco;Ciriaco;Vestígio;Exata;;Alan, 2025;-28,3677;-51,8782;-28.3677;-51.8782;;Área: Ciriaco
+13/08/2025;;2025;8;13;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;Rodovia Mercosul;Capivari do Sul;Vestígio;Exata;;Alan, 2025;-30,117243;-50,463392;-30.117243;-50.463392;BR-290/BR-386;BR-290/BR-386
+14/08/2025;;2025;8;14;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;RS - 392;Guarani das Missões;Vestígio;Exata;;Felipe Peters, 2025;-28,129472;-54,65025;-28.129472;-54.65025;RS-392;RS-392
+07/07/2025;;2025;7;7;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;BR-285;Mato Castelhano;Vestígio;Exata;;Rogério,  2025;-28,258056;-52,233611;-28.258056;-52.233611;BR-285;BR-285
+19/08/2025;;2025;8;19;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;;;;;Coordenada incorreta, não foi possível correção por aproximação;;-29,4626;-50,1288;-29.4626;-50.1288;;Localização não identificada
+21/08/2025;;2025;8;21;Felidae;Leopardus munoai;Gato-palheiro-pampeano;Silvestre;Pintado;BR-293;Bagé;Vestígio;Exata;;Felipe Peters, 2025;-31,3364;-53,9676;-31.3364;-53.9676;BR-293;BR-293
+23/08/2025;;2025;8;23;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;BR-471;Santa Cruz do Sul;Vestígio;Exata;;Rogério, 2025;-29,6900;-52,4495;-29.69;-52.4495;BR-471;BR-471
+31/08/2025;;2025;8;31;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;Marcorama;Garibaldi;Vestígio;Exata;;Felipe Peters, 2025;-29,2483;-51,6216;-29.2483;-51.6216;;Área: Marcorama
+02/09/2025;;2025;9;2;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;BR-293;Pinheiro Machado;Vestígio;Aproximada Google Maps;;Rogério, 2025;-31,6331;-53,2247;-31.6331;-53.2247;BR-293;BR-293
+05/09/2025;;2025;9;5;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;RS-473;Hulha Negra;Vestígio;Exata;;Rogério, 2025;-31,4074;-53,7501;-31.4074;-53.7501;RS-473;RS-473
+06/09/2025;;2025;9;6;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;BR-386;Soledade;Vestígio;Aproximada Google Maps;;Felipe Peters, 2025;-28,8449;-52,4523;-28.8449;-52.4523;BR-386;BR-386
+08/09/2025;;2025;9;8;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;BR-290;Glorinha;Vestígio;Exata;;Rogério, 2025;-29,8977;-50,7368;-29.8977;-50.7368;BR-290;BR-290
+12/09/2025;;2025;9;12;Felidae;Puma concolor;Onça-parda;Silvestre;Liso;BR-285; Vacaria;Vestígio;Exata;;Rogério, 2025;-28,5850;-50,7694;-28.585;-50.7694;BR-285;BR-285
+18/09/2025;;2025;9;18;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;BR-293;Bagé;Vestígio;Exata;;Felipe Peters, 2025;-31,3018;-54,0431;-31.3018;-54.0431;BR-293;BR-293
+16/09/2025;;2025;9;16;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;BR-153;Erechim;Vestígio;Exata;;Felipe Peters, 2025;-27,5391;-52,1828;-27.5391;-52.1828;BR-153;BR-153
+10/01/2025;;2025;1;10;Felidae;Herpailurus yagouaroundi;Jaguarundi;Silvestre;Cinza;BR-293;Hulha Negra;;Exata;Enviado João Fábio depois BIMA;Felipe Peters, 2025;-31,3916;-53,8618;-31.3916;-53.8618;BR-293;BR-293
+20/11/2025;;2025;11;20;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;BR-116;Sentinela do Sul;Vestígio;Exata;Depositado na UFRGS;Felipe Peters, 2025;-30,9567;-51969;-30.9567;-51.969;BR-116;BR-116
+20/11/2025;;2025;11;24;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;BR-471;Santa Cruz do Sul;Vestígio;Exata;;Alan, 2025;-29,8397;-52,3961;-29.8397;-52.3961;BR-471;BR-471
+08/10/2025;;2025;10;8;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;;Tapes;Vestígio;Exata;;Felipe Peters, 2025;-30,5859;-51,413753;-30.5859;-51.413753;;Área: Tapes
+07/12/2025;;2025;12;7;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Melânico;BR-293; Dom Pedrito;Vestígio;Exata;;Felipe Peters, 2025;-31,1031;-54,4388;-31.1031;-54.4388;BR-293;BR-293
+28/11/2025;;2025;11;28;Felidae;Herpailurus yagouaroundi;Jaguarundi;Silvestre;Marrom;RS-241;São Vicente do Sul;Vestígio;Exata;;Rogério, 2025;-29,7067;-54,7301;-29.7067;-54.7301;RS-241;RS-241
+02/12/2025;;2025;12;2;Felidae;Leopardus munoai;Gato-palheiro-pampeano;Silvestre;Pintado;RS-473; Hulha Negra;Vestígio;Exata;Coletado  - Suelen;Suelen, 2025;-31,33676;-53,967048;-31.33676;-53.967048;RS-473;RS-473
+23/12/2025;;2025;12;23;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;;Feliz;Vestígio;Exata;;Alan, 2025;-29,4603;-51,3266;-29.4603;-51.3266;;Área: Feliz
+03/01/2026;;2026;1;3;Felidae;Herpailurus yagouaroundi;Jaguarundi;Silvestre;Liso;BR-293; Hulha Negra;Vestígio;Aproximada Google Maps;;Felipe Peters, 2026;-31,3491;-53,9477;-31.3491;-53.9477;BR-293;BR-293
+12/01/2026;;2026;1;12;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;BR-153;Cachoeira do Sul;Vestígio;Exata;;Felipe Peters, 2026;-30,2683;-52,8855;-30.2683;-52.8855;BR-153;BR-153
+15/01/2026;;2026;1;15;Felidae;Herpailurus yagouaroundi;Jaguarundi;Silvestre;Liso;;Catuípe;Vestígio;Exata;;Felipe Peters, 2026;-28,0313;-54,0733;-28.0313;-54.0733;;Área: Catuípe
+20/01/2026;;2026;1;20;Felidae;Herpailurus yagouaroundi;Jaguarundi;Silvestre;Liso;RS-168;Roque Gonzales;Vestígio;Exata;;Alan, 2026;-28,0782;-54,9382;-28.0782;-54.9382;RS-168;RS-168
+01/02/2026;;2026;1;2;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;BR-158;Rosário do Sul;Vestígio;Exata;;Felipe Peters, 2026;-30,3320;-55,0076;-30.332;-55.0076;BR-158;BR-158
+06/02/2026;;2026;2;6;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;BR-116;Arroio Grande;Vestígio;Exata;;Alan, 2026;-32,2548;-53,0804;-32.2548;-53.0804;BR-116;BR-116
+10/02/2026;;2026;2;10;Felidae;Herpailurus yagouaroundi;Jaguarundi;Silvestre;Liso;BR-293;Candiota;Vestígio;Exata;;Suelen, 2026;-31,4201;-53,7219;-31.4201;-53.7219;BR-293;BR-293
+18/02/2026;;2026;2;18;Felidae;Leopardus pardalis;Jaguatirica;Silvestre;Pintado;PR-151;Ponta Grossa;Vestígio;Exata;;Felipe Peters, 2026;-25,2617;-50,1459;-25.2617;-50.1459;PR-151;PR-151
+27/02/2026;;2026;2;27;Felidae;Leopardus guttulus;Gato-do-mato-pequeno;Silvestre;Pintado;RS-473;Candiota;Vestígio;Exata;;Suelen, 2026;-31,4062;-53,7525;-31.4062;-53.7525;RS-473;RS-473
+02/03/26;;2026;3;2;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;RS-392;Santa Maria;Vestígio;Exata;;Felipe Peters, 2026;-29,7445;-53,7929;-29.7445;-53.7929;RS-392;RS-392
+28/02/2026;;2026;2;28;Felidae;Puma concolor;Onça-parda;Silvestre;Liso;BR-158; Pejuçara;Vestígio;Aproximada Google Maps;;Alan, 2026;-28,5023;-53,5496;-28.5023;-53.5496;BR-158;BR-158
+03/03/2026;;2026;3;3;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;BR-116;Camaquã;Vestígio;Exata;;Eduardo Coelho, 2026;-30,8859;-51,8336;-30.8859;-51.8336;BR-116;BR-116
+16/03/2026;;2026;3;16;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;BR-293;Bagé;Vestígio;Exata;;Rogério, 2026;-31,3013;-54,0442;-31.3013;-54.0442;BR-293;BR-293
+16/03/2026;;2026;3;16;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;BR-293;Bagé;Vestígio;Exata;;Rogério, 2026;-31,3012;-54,0443;-31.3012;-54.0443;BR-293;BR-293
+25/03/2026;;2026;3;25;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Melânico;BR-293;Hulha Negra;Vestígio;Exata;;Rogério, 2026;-31,3165;-54,0061;-31.3165;-54.0061;BR-293;BR-293
+28/03/2026;;2026;3;28;Felidae;Herpailurus yagouaroundi;Jaguarundi;Silvestre;Liso;BR-290;Rosário do Sul;Vestígio;Exata;;Flávia Tirelli, 2026;-30,2440;-54,8391;-30.244;-54.8391;BR-290;BR-290
+02/04/2026;;2026;4;2;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;BR-293; Hulha Negra;Vestígio;Exata;Coletado  - Suelen;Rogério, 2026;-31,3615;-53,9313;-31.3615;-53.9313;BR-293;BR-293
+02/04/2026;;2026;4;2;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;RS-176;Manoel Viana;Vestígio;Exata;;Felipe Peters, 2026;-29,3948;-55,4384;-29.3948;-55.4384;RS-176;RS-176
+18/04/2026;;2026;4;18;Felidae;Puma concolor;Puma;Silvestre;Liso;; Maquiné;Vestígio;Aproximada Google Maps;;Mateus, 2026;-29,6720;-50,2196;-29.672;-50.2196;;Área: Maquiné
+21/04/2026;;2026;4;21;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;BR-158;Cruz Alta;Vestígio;Exata;;Felipe Peters, 2026;-28,6658;-53,5968;-28.6658;-53.5968;BR-158;BR-158
+21/04/2026;;2026;4;21;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;BR-158;Cruz Alta;Vestígio;Exata;;Felipe Peters, 2026;-28,5878;-53,6163;-28.5878;-53.6163;BR-158;BR-158
+23/04/2026;;2026;4;23;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;BR-472;Uruguaiana;Vestígio;Aproximada Google Maps;;Mateus, 2026;-29,8307;-57,1015;-29.8307;-57.1015;BR-472;BR-472
+25/04/2026;;2026;4;25;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;BR-290;Iruí;Vestígio;Exata;;Rogério, 2026;-30,2106;-52,5259;-30.2106;-52.5259;BR-290;BR-290
+28/04/2026;;2026;4;28;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;Estrada de terra;Bagé;Vestígio;Exata;;Rogério, 2026;-31,2839;-54,0057;-31.2839;-54.0057;;Área: Estrada de terra
+03/05/2026;;2026;5;3;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;BR-153;Aceguá;Vestígio;Exata;;Alan, 2026;-31,6602;-54,1534;-31.6602;-54.1534;BR-153;BR-153
+27/04/2026;;2026;4;27;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;;Dilermando de Aguiar;Vestígio;Exata;;Rogério, 2026;-29,7640;-54,2266;-29.764;-54.2266;;Área: Dilermando de Aguiar
+21/11/2025;;2025;11;21;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;;Sinimbu;Vestígio;Exata;;Alan, 2026;-29,3505;-52,6531;-29.3505;-52.6531;;Área: Sinimbu
+05/05/26;;2026;5;5;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;RS-357;Caçapava do Sul;Vestígio;Exata;;Bibiana, 2026;-30,6704;-53,6030;-30.6704;-53.603;RS-357;RS-357
+05/08/26;;2026;5;8;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Melânico;BR - 293;Canguçu;Vestígio;Exata;;Felipe Peters, 2026;-31,728689;-52,844556;-31.728689;-52.844556;BR-293;BR-293
+15/05/2026;;2026;5;15;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;BR-392;Morro Redondo;Vestígio;Exata;;Rogério, 2026;-31,5624;-52,5463;-31.5624;-52.5463;BR-392;BR-392
+15/05/2026;;2026;5;15;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;;Capitão;Vestígio;Exata;;Rogério, 2026;-29,2987;-51,9946;-29.2987;-51.9946;;Área: Capitão
+16/05/2026;;2026;5;16;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Melânico;BR-293;Dom Pedrito;Vestígio;Exata;Macho;Ana Paula Albano, 2026;-30,940833;-54,730833;-30.940833;-54.730833;BR-293;BR-293
+17/05/2026;;2026;5;17;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;BR-290;Uruguaiana;Vestígio;Exata;Macho;Rogério, 2026;-29,887222;-56,744722;-29.887222;-56.744722;BR-290;BR-290
+17/05/2026;;2026;5;17;Felidae;Leopardus guttulus;Gato-mato-do-sul;Silvestre;Pintado;RS-223;Selbach;Vestígio;Exata;;Marina, 2026;-28,646097;-52,936283;-28.646097;-52.936283;RS-223;RS-223
+19/05/2026;;2026;5;19;Felidae;Leopardus guttulus;Gato-mato-do-sul;Silvestre;Pintado;;Horizontina;Vestígio;Exata;;Rogério, 2026;-27,6011;-54,3803;-27.6011;-54.3803;;Área: Horizontina
+22/05/2026;;2026;5;22;Felidae;Leopardus munoai;Gato-palheiro-pampeano;Silvestre;Pintado;RS-168;Santiago;Vestígio;Exata;Coletado - PATRAM;Rogério, 2026;-29,0964;-54,9209;-29.0964;-54.9209;RS-168;RS-168
+30/05/2026;;2026;5;30;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;BR-290;Cachoeira do Sul;Vestígio;Exata;;Rogério, 2026;-30,2889;-52,9646;-30.2889;-52.9646;BR-290;BR-290
+31/05/2026;;2026;5;31;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;RS-241;São Vicente do Sul;Vestígio;Exata;;Marina, 2026;-29,7231;-54,8075;-29.7231;-54.8075;RS-241;RS-241
+04/06/2026;;2026;6;4;Felidae;Leopardus guttulus;Gato-do-mato-do-sul;Silvestre;Pintado;Avenida Edgar Pires de Castro;Lageado;Vestígio;Exata;;Marina, 2026;-30,2003;-51,1241;-30.2003;-51.1241;;Área: Avenida Edgar Pires de Castro
+10/06/2026;;2026;6;10;Felidae;Leopardus wiedii;Gato-maracajá;Silvestre;Pintado;BR-116;Dois Irmãos;Vestígio;Exata;;Alan, 2026;-29,6299;-51,0739;-29.6299;-51.0739;BR-116;BR-116
+10/06/2026;;2026;6;10;Felidae;Leopardus geoffroyi;Gato-do-mato-grande;Silvestre;Pintado;;Bagé;Vestígio;Exata;;Mateus Callero, 2026;-31,4401;-54,2852;-31.4401;-54.2852;;Área: Bagé
